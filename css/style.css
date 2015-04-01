@@ -1041,7 +1041,7 @@
 		box-shadow: 0 1px 2px 0 rgba(0, 0, 0, 0.075);
 		color: inherit;
 		cursor: default;
-		font-size: 0.8em;
+		font-size: 2.8em;
 		left: 0;
 		padding: 1em 1.5em;
 		position: fixed;
@@ -1103,7 +1103,7 @@
 					text-transform: none !important;
 				}
 
-				#header nav ul li.submenu > a:before {
+				`#header nav ul li.submenu > a:before {
 					content: '\f107';
 					margin-right: 0.65em;
 				}
